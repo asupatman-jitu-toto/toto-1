@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://asupatman-jitu-toto.github.io/toto-1/sitemap.xml
